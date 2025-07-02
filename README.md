@@ -1,2 +1,3 @@
-# catalogo-produto
-Repositório para exercício de Atividade EBAC 
+# Catalago de Produtos
+
+Exercício realizado para aplicação de conceitos React.
